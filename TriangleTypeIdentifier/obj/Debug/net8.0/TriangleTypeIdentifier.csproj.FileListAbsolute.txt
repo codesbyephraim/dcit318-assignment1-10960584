@@ -1,0 +1,14 @@
+C:\Users\Ephraim\source\repos\dict318-assignment1-10960584\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.exe
+C:\Users\Ephraim\source\repos\dict318-assignment1-10960584\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.deps.json
+C:\Users\Ephraim\source\repos\dict318-assignment1-10960584\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.runtimeconfig.json
+C:\Users\Ephraim\source\repos\dict318-assignment1-10960584\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.dll
+C:\Users\Ephraim\source\repos\dict318-assignment1-10960584\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.pdb
+C:\Users\Ephraim\source\repos\dict318-assignment1-10960584\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ephraim\source\repos\dict318-assignment1-10960584\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.AssemblyInfoInputs.cache
+C:\Users\Ephraim\source\repos\dict318-assignment1-10960584\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.AssemblyInfo.cs
+C:\Users\Ephraim\source\repos\dict318-assignment1-10960584\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\Ephraim\source\repos\dict318-assignment1-10960584\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.dll
+C:\Users\Ephraim\source\repos\dict318-assignment1-10960584\TriangleTypeIdentifier\obj\Debug\net8.0\refint\TriangleTypeIdentifier.dll
+C:\Users\Ephraim\source\repos\dict318-assignment1-10960584\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.pdb
+C:\Users\Ephraim\source\repos\dict318-assignment1-10960584\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.genruntimeconfig.cache
+C:\Users\Ephraim\source\repos\dict318-assignment1-10960584\TriangleTypeIdentifier\obj\Debug\net8.0\ref\TriangleTypeIdentifier.dll
